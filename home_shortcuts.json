@@ -11,6 +11,19 @@
   },
   "categories": [
     {
+      "name": "AI Tools",
+      "items": [
+        { "name": "ChatGPT", "url": "https://chatgpt.com" },
+        { "name": "Gemini", "url": "https://gemini.google.com" },
+        { "name": "Claude", "url": "https://claude.ai" },
+        { "name": "Perplexity", "url": "https://www.perplexity.ai" },
+        { "name": "Copilot", "url": "https://copilot.microsoft.com" },
+        { "name": "Hugging Face", "url": "https://huggingface.co" },
+        { "name": "Grok", "url": "https://grok.com" },
+        { "name": "DeepSeek", "url": "https://chat.deepseek.com" }
+      ]
+    },
+    {
       "name": "Social",
       "items": [
         { "name": "Instagram", "url": "https://instagram.com" },
@@ -88,6 +101,129 @@
         { "name": "Shopee", "url": "https://shopee.co.id" },
         { "name": "Tokopedia", "url": "https://www.tokopedia.com" },
         { "name": "Etsy", "url": "https://www.etsy.com" }
+      ]
+    },
+    {
+      "name": "Productivity & Cloud",
+      "items": [
+        { "name": "Gmail", "url": "https://mail.google.com" },
+        { "name": "Google Drive", "url": "https://drive.google.com" },
+        { "name": "Google Docs", "url": "https://docs.google.com" },
+        { "name": "Google Calendar", "url": "https://calendar.google.com" },
+        { "name": "Notion", "url": "https://www.notion.so" },
+        { "name": "Slack", "url": "https://slack.com" },
+        { "name": "Zoom", "url": "https://zoom.us" },
+        { "name": "Trello", "url": "https://trello.com" },
+        { "name": "Dropbox", "url": "https://www.dropbox.com" },
+        { "name": "OneDrive", "url": "https://onedrive.live.com" }
+      ]
+    },
+    {
+      "name": "Developer",
+      "items": [
+        { "name": "GitHub", "url": "https://github.com" },
+        { "name": "GitLab", "url": "https://gitlab.com" },
+        { "name": "Stack Overflow", "url": "https://stackoverflow.com" },
+        { "name": "MDN", "url": "https://developer.mozilla.org" },
+        { "name": "Docker Hub", "url": "https://hub.docker.com" },
+        { "name": "npm", "url": "https://www.npmjs.com" },
+        { "name": "Hacker News", "url": "https://news.ycombinator.com" },
+        { "name": "Dev.to", "url": "https://dev.to" },
+        { "name": "Postman", "url": "https://www.postman.com" },
+        { "name": "Vercel", "url": "https://vercel.com" }
+      ]
+    },
+    {
+      "name": "Design & Creative",
+      "items": [
+        { "name": "Canva", "url": "https://www.canva.com" },
+        { "name": "Figma", "url": "https://www.figma.com" },
+        { "name": "Unsplash", "url": "https://unsplash.com" },
+        { "name": "Pexels", "url": "https://www.pexels.com" },
+        { "name": "Pixabay", "url": "https://pixabay.com" },
+        { "name": "Dribbble", "url": "https://dribbble.com" },
+        { "name": "Behance", "url": "https://www.behance.net" },
+        { "name": "Coolors", "url": "https://coolors.co" }
+      ]
+    },
+    {
+      "name": "Finance",
+      "items": [
+        { "name": "Google Finance", "url": "https://www.google.com/finance" },
+        { "name": "Yahoo Finance", "url": "https://finance.yahoo.com" },
+        { "name": "Bloomberg", "url": "https://www.bloomberg.com" },
+        { "name": "Investing.com", "url": "https://www.investing.com" },
+        { "name": "IDX", "url": "https://www.idx.co.id" },
+        { "name": "OJK", "url": "https://www.ojk.go.id" },
+        { "name": "CoinMarketCap", "url": "https://coinmarketcap.com" },
+        { "name": "CoinGecko", "url": "https://www.coingecko.com" }
+      ]
+    },
+    {
+      "name": "Travel & Maps",
+      "items": [
+        { "name": "Google Maps", "url": "https://maps.google.com" },
+        { "name": "Google Flights", "url": "https://www.google.com/travel/flights" },
+        { "name": "Booking.com", "url": "https://www.booking.com" },
+        { "name": "Agoda", "url": "https://www.agoda.com" },
+        { "name": "Airbnb", "url": "https://www.airbnb.com" },
+        { "name": "Traveloka", "url": "https://www.traveloka.com" },
+        { "name": "OpenStreetMap", "url": "https://www.openstreetmap.org" },
+        { "name": "Waze", "url": "https://www.waze.com" }
+      ]
+    },
+    {
+      "name": "Health & Fitness",
+      "items": [
+        { "name": "Halodoc", "url": "https://www.halodoc.com" },
+        { "name": "Alodokter", "url": "https://www.alodokter.com" },
+        { "name": "Kemenkes", "url": "https://www.kemkes.go.id" },
+        { "name": "WHO", "url": "https://www.who.int" },
+        { "name": "Strava", "url": "https://www.strava.com" },
+        { "name": "MyFitnessPal", "url": "https://www.myfitnesspal.com" },
+        { "name": "WebMD", "url": "https://www.webmd.com" },
+        { "name": "Healthline", "url": "https://www.healthline.com" }
+      ]
+    },
+    {
+      "name": "Books & Reading",
+      "items": [
+        { "name": "Goodreads", "url": "https://www.goodreads.com" },
+        { "name": "Google Books", "url": "https://books.google.com" },
+        { "name": "Project Gutenberg", "url": "https://www.gutenberg.org" },
+        { "name": "Open Library", "url": "https://openlibrary.org" },
+        { "name": "Wattpad", "url": "https://www.wattpad.com" },
+        { "name": "Gramedia Digital", "url": "https://ebooks.gramedia.com" },
+        { "name": "Perpusnas", "url": "https://www.perpusnas.go.id" },
+        { "name": "JSTOR", "url": "https://www.jstor.org" }
+      ]
+    },
+    {
+      "name": "Gaming",
+      "items": [
+        { "name": "Steam", "url": "https://store.steampowered.com" },
+        { "name": "Epic Games", "url": "https://store.epicgames.com" },
+        { "name": "itch.io", "url": "https://itch.io" },
+        { "name": "GOG", "url": "https://www.gog.com" },
+        { "name": "Roblox", "url": "https://www.roblox.com" },
+        { "name": "Xbox", "url": "https://www.xbox.com" },
+        { "name": "PlayStation", "url": "https://www.playstation.com" },
+        { "name": "Nintendo", "url": "https://www.nintendo.com" }
+      ]
+    },
+    {
+      "name": "Local Indonesia",
+      "items": [
+        { "name": "Detik", "url": "https://www.detik.com" },
+        { "name": "Kompas", "url": "https://www.kompas.com" },
+        { "name": "CNN Indonesia", "url": "https://www.cnnindonesia.com" },
+        { "name": "Tempo", "url": "https://www.tempo.co" },
+        { "name": "Kumparan", "url": "https://kumparan.com" },
+        { "name": "Tirto", "url": "https://tirto.id" },
+        { "name": "Kaskus", "url": "https://www.kaskus.co.id" },
+        { "name": "Bukalapak", "url": "https://www.bukalapak.com" },
+        { "name": "Gojek", "url": "https://www.gojek.com" },
+        { "name": "BMKG", "url": "https://www.bmkg.go.id" }
       ]
     }
   ]
