@@ -1,0 +1,94 @@
+{
+  "speedDial": [
+    { "name": "YouTube", "url": "https://youtube.com" },
+    { "name": "Facebook", "url": "https://facebook.com" },
+    { "name": "TikTok", "url": "https://tiktok.com" },
+    { "name": "X", "url": "https://x.com" }
+  ],
+  "recommended": {
+    "name": "Dailymotion",
+    "url": "https://dailymotion.com"
+  },
+  "categories": [
+    {
+      "name": "Social",
+      "items": [
+        { "name": "Instagram", "url": "https://instagram.com" },
+        { "name": "X", "url": "https://x.com" },
+        { "name": "Facebook", "url": "https://facebook.com" },
+        { "name": "Reddit", "url": "https://reddit.com" },
+        { "name": "LinkedIn", "url": "https://linkedin.com" },
+        { "name": "Pinterest", "url": "https://pinterest.com" },
+        { "name": "TikTok", "url": "https://tiktok.com" },
+        { "name": "Discord", "url": "https://discord.com" },
+        { "name": "Telegram", "url": "https://telegram.org" },
+        { "name": "Threads", "url": "https://threads.net" }
+      ]
+    },
+    {
+      "name": "Streaming",
+      "items": [
+        { "name": "YouTube", "url": "https://youtube.com" },
+        { "name": "Netflix", "url": "https://netflix.com" },
+        { "name": "Spotify", "url": "https://open.spotify.com" },
+        { "name": "Twitch", "url": "https://twitch.tv" },
+        { "name": "Prime Video", "url": "https://primevideo.com" },
+        { "name": "Disney+", "url": "https://disneyplus.com" },
+        { "name": "Vimeo", "url": "https://vimeo.com" },
+        { "name": "SoundCloud", "url": "https://soundcloud.com" },
+        { "name": "Crunchyroll", "url": "https://crunchyroll.com" },
+        { "name": "Apple Music", "url": "https://music.apple.com" }
+      ]
+    },
+    {
+      "name": "Download",
+      "items": [
+        { "name": "GitHub", "url": "https://github.com" },
+        { "name": "F-Droid", "url": "https://f-droid.org" },
+        { "name": "APKMirror", "url": "https://apkmirror.com" },
+        { "name": "Archive", "url": "https://archive.org" },
+        { "name": "SourceForge", "url": "https://sourceforge.net" },
+        { "name": "NPM", "url": "https://npmjs.com" },
+        { "name": "PyPI", "url": "https://pypi.org" },
+        { "name": "FileHippo", "url": "https://filehippo.com" },
+        { "name": "FossHub", "url": "https://fosshub.com" },
+        { "name": "Kaggle", "url": "https://kaggle.com" }
+      ]
+    },
+    {
+      "name": "Learning",
+      "items": [
+        { "name": "Wikipedia", "url": "https://wikipedia.org" },
+        { "name": "Coursera", "url": "https://coursera.org" },
+        { "name": "Khan", "url": "https://khanacademy.org" },
+        { "name": "MDN", "url": "https://developer.mozilla.org" },
+        { "name": "W3Schools", "url": "https://w3schools.com" },
+        { "name": "edX", "url": "https://edx.org" },
+        { "name": "MIT OpenCourse", "url": "https://ocw.mit.edu" },
+        { "name": "Stack Overflow", "url": "https://stackoverflow.com" },
+        { "name": "freeCodeCamp", "url": "https://freecodecamp.org" },
+        { "name": "Google Scholar", "url": "https://scholar.google.com" }
+      ]
+    },
+    {
+      "name": "News",
+      "items": [
+        { "name": "Google News", "url": "https://news.google.com" },
+        { "name": "BBC", "url": "https://www.bbc.com" },
+        { "name": "CNN", "url": "https://www.cnn.com" },
+        { "name": "Reuters", "url": "https://www.reuters.com" },
+        { "name": "The Guardian", "url": "https://www.theguardian.com" }
+      ]
+    },
+    {
+      "name": "Shopping",
+      "items": [
+        { "name": "Amazon", "url": "https://www.amazon.com" },
+        { "name": "eBay", "url": "https://www.ebay.com" },
+        { "name": "Shopee", "url": "https://shopee.co.id" },
+        { "name": "Tokopedia", "url": "https://www.tokopedia.com" },
+        { "name": "Etsy", "url": "https://www.etsy.com" }
+      ]
+    }
+  ]
+}
