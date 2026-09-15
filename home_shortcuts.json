@@ -2,7 +2,7 @@
   "speedDial": [
     { "name": "YouTube", "url": "https://youtube.com" },
     { "name": "Facebook", "url": "https://facebook.com" },
-    { "name": "TikTok", "url": "https://tiktok.com" },
+    { "name": "ChatGPT", "url": "https://chatgpt.com" },
     { "name": "X", "url": "https://x.com" }
   ],
   "recommended": {
@@ -11,65 +11,67 @@
   },
   "categories": [
     {
-      "name": "AI Tools",
+      "name": "AI",
       "items": [
         { "name": "ChatGPT", "url": "https://chatgpt.com" },
-        { "name": "Gemini", "url": "https://gemini.google.com" },
         { "name": "Claude", "url": "https://claude.ai" },
-        { "name": "Perplexity", "url": "https://www.perplexity.ai" },
+        { "name": "Gemini", "url": "https://gemini.google.com" },
         { "name": "Copilot", "url": "https://copilot.microsoft.com" },
-        { "name": "Hugging Face", "url": "https://huggingface.co" },
+        { "name": "Perplexity", "url": "https://www.perplexity.ai" },
         { "name": "Grok", "url": "https://grok.com" },
-        { "name": "DeepSeek", "url": "https://chat.deepseek.com" }
+        { "name": "DeepSeek", "url": "https://chat.deepseek.com" },
+        { "name": "Qwen", "url": "https://chat.qwen.ai" },
+        { "name": "Kimi", "url": "https://kimi.moonshot.cn" },
+        { "name": "Doubao", "url": "https://www.doubao.com" },
+        { "name": "Zhipu GLM", "url": "https://chatglm.cn" },
+        { "name": "Ernie", "url": "https://yiyan.baidu.com" },
+        { "name": "Yuanbao", "url": "https://yuanbao.tencent.com" },
+        { "name": "Hugging Face", "url": "https://huggingface.co" }
       ]
     },
     {
-      "name": "Social",
+      "name": "News",
       "items": [
-        { "name": "Instagram", "url": "https://instagram.com" },
-        { "name": "X", "url": "https://x.com" },
-        { "name": "Facebook", "url": "https://facebook.com" },
-        { "name": "Reddit", "url": "https://reddit.com" },
-        { "name": "LinkedIn", "url": "https://linkedin.com" },
-        { "name": "Pinterest", "url": "https://pinterest.com" },
-        { "name": "TikTok", "url": "https://tiktok.com" },
-        { "name": "Discord", "url": "https://discord.com" },
-        { "name": "Telegram", "url": "https://telegram.org" },
-        { "name": "Threads", "url": "https://threads.net" }
+        { "name": "Google News", "url": "https://news.google.com" },
+        { "name": "BBC", "url": "https://www.bbc.com" },
+        { "name": "CNN", "url": "https://www.cnn.com" },
+        { "name": "Reuters", "url": "https://www.reuters.com" },
+        { "name": "The Guardian", "url": "https://www.theguardian.com" },
+        { "name": "Al Jazeera", "url": "https://www.aljazeera.com" },
+        { "name": "AP News", "url": "https://apnews.com" },
+        { "name": "NYTimes", "url": "https://www.nytimes.com" },
+        { "name": "Bloomberg", "url": "https://www.bloomberg.com" }
       ]
     },
     {
-      "name": "Streaming",
+      "name": "Shopping",
       "items": [
-        { "name": "YouTube", "url": "https://youtube.com" },
-        { "name": "Netflix", "url": "https://netflix.com" },
-        { "name": "Spotify", "url": "https://open.spotify.com" },
-        { "name": "Twitch", "url": "https://twitch.tv" },
-        { "name": "Prime Video", "url": "https://primevideo.com" },
-        { "name": "Disney+", "url": "https://disneyplus.com" },
-        { "name": "Vimeo", "url": "https://vimeo.com" },
-        { "name": "SoundCloud", "url": "https://soundcloud.com" },
-        { "name": "Crunchyroll", "url": "https://crunchyroll.com" },
-        { "name": "Apple Music", "url": "https://music.apple.com" }
+        { "name": "Amazon", "url": "https://www.amazon.com" },
+        { "name": "eBay", "url": "https://www.ebay.com" },
+        { "name": "Etsy", "url": "https://www.etsy.com" },
+        { "name": "AliExpress", "url": "https://www.aliexpress.com" },
+        { "name": "Temu", "url": "https://www.temu.com" },
+        { "name": "Walmart", "url": "https://www.walmart.com" },
+        { "name": "Best Buy", "url": "https://www.bestbuy.com" },
+        { "name": "Target", "url": "https://www.target.com" }
       ]
     },
     {
-      "name": "Download",
+      "name": "Finance",
       "items": [
-        { "name": "GitHub", "url": "https://github.com" },
-        { "name": "F-Droid", "url": "https://f-droid.org" },
-        { "name": "APKMirror", "url": "https://apkmirror.com" },
-        { "name": "Archive", "url": "https://archive.org" },
-        { "name": "SourceForge", "url": "https://sourceforge.net" },
-        { "name": "NPM", "url": "https://npmjs.com" },
-        { "name": "PyPI", "url": "https://pypi.org" },
-        { "name": "FileHippo", "url": "https://filehippo.com" },
-        { "name": "FossHub", "url": "https://fosshub.com" },
-        { "name": "Kaggle", "url": "https://kaggle.com" }
+        { "name": "Yahoo Finance", "url": "https://finance.yahoo.com" },
+        { "name": "Bloomberg", "url": "https://www.bloomberg.com" },
+        { "name": "CNBC", "url": "https://www.cnbc.com" },
+        { "name": "Investing.com", "url": "https://www.investing.com" },
+        { "name": "TradingView", "url": "https://www.tradingview.com" },
+        { "name": "CoinMarketCap", "url": "https://coinmarketcap.com" },
+        { "name": "CoinGecko", "url": "https://www.coingecko.com" },
+        { "name": "Google Finance", "url": "https://www.google.com/finance" },
+        { "name": "MarketWatch", "url": "https://www.marketwatch.com" }
       ]
     },
     {
-      "name": "Learning",
+      "name": "Learn",
       "items": [
         { "name": "Wikipedia", "url": "https://wikipedia.org" },
         { "name": "Coursera", "url": "https://coursera.org" },
@@ -80,150 +82,8 @@
         { "name": "MIT OpenCourse", "url": "https://ocw.mit.edu" },
         { "name": "Stack Overflow", "url": "https://stackoverflow.com" },
         { "name": "freeCodeCamp", "url": "https://freecodecamp.org" },
-        { "name": "Google Scholar", "url": "https://scholar.google.com" }
-      ]
-    },
-    {
-      "name": "News",
-      "items": [
-        { "name": "Google News", "url": "https://news.google.com" },
-        { "name": "BBC", "url": "https://www.bbc.com" },
-        { "name": "CNN", "url": "https://www.cnn.com" },
-        { "name": "Reuters", "url": "https://www.reuters.com" },
-        { "name": "The Guardian", "url": "https://www.theguardian.com" }
-      ]
-    },
-    {
-      "name": "Shopping",
-      "items": [
-        { "name": "Amazon", "url": "https://www.amazon.com" },
-        { "name": "eBay", "url": "https://www.ebay.com" },
-        { "name": "Shopee", "url": "https://shopee.co.id" },
-        { "name": "Tokopedia", "url": "https://www.tokopedia.com" },
-        { "name": "Etsy", "url": "https://www.etsy.com" }
-      ]
-    },
-    {
-      "name": "Productivity & Cloud",
-      "items": [
-        { "name": "Gmail", "url": "https://mail.google.com" },
-        { "name": "Google Drive", "url": "https://drive.google.com" },
-        { "name": "Google Docs", "url": "https://docs.google.com" },
-        { "name": "Google Calendar", "url": "https://calendar.google.com" },
-        { "name": "Notion", "url": "https://www.notion.so" },
-        { "name": "Slack", "url": "https://slack.com" },
-        { "name": "Zoom", "url": "https://zoom.us" },
-        { "name": "Trello", "url": "https://trello.com" },
-        { "name": "Dropbox", "url": "https://www.dropbox.com" },
-        { "name": "OneDrive", "url": "https://onedrive.live.com" }
-      ]
-    },
-    {
-      "name": "Developer",
-      "items": [
-        { "name": "GitHub", "url": "https://github.com" },
-        { "name": "GitLab", "url": "https://gitlab.com" },
-        { "name": "Stack Overflow", "url": "https://stackoverflow.com" },
-        { "name": "MDN", "url": "https://developer.mozilla.org" },
-        { "name": "Docker Hub", "url": "https://hub.docker.com" },
-        { "name": "npm", "url": "https://www.npmjs.com" },
-        { "name": "Hacker News", "url": "https://news.ycombinator.com" },
-        { "name": "Dev.to", "url": "https://dev.to" },
-        { "name": "Postman", "url": "https://www.postman.com" },
-        { "name": "Vercel", "url": "https://vercel.com" }
-      ]
-    },
-    {
-      "name": "Design & Creative",
-      "items": [
-        { "name": "Canva", "url": "https://www.canva.com" },
-        { "name": "Figma", "url": "https://www.figma.com" },
-        { "name": "Unsplash", "url": "https://unsplash.com" },
-        { "name": "Pexels", "url": "https://www.pexels.com" },
-        { "name": "Pixabay", "url": "https://pixabay.com" },
-        { "name": "Dribbble", "url": "https://dribbble.com" },
-        { "name": "Behance", "url": "https://www.behance.net" },
-        { "name": "Coolors", "url": "https://coolors.co" }
-      ]
-    },
-    {
-      "name": "Finance",
-      "items": [
-        { "name": "Google Finance", "url": "https://www.google.com/finance" },
-        { "name": "Yahoo Finance", "url": "https://finance.yahoo.com" },
-        { "name": "Bloomberg", "url": "https://www.bloomberg.com" },
-        { "name": "Investing.com", "url": "https://www.investing.com" },
-        { "name": "IDX", "url": "https://www.idx.co.id" },
-        { "name": "OJK", "url": "https://www.ojk.go.id" },
-        { "name": "CoinMarketCap", "url": "https://coinmarketcap.com" },
-        { "name": "CoinGecko", "url": "https://www.coingecko.com" }
-      ]
-    },
-    {
-      "name": "Travel & Maps",
-      "items": [
-        { "name": "Google Maps", "url": "https://maps.google.com" },
-        { "name": "Google Flights", "url": "https://www.google.com/travel/flights" },
-        { "name": "Booking.com", "url": "https://www.booking.com" },
-        { "name": "Agoda", "url": "https://www.agoda.com" },
-        { "name": "Airbnb", "url": "https://www.airbnb.com" },
-        { "name": "Traveloka", "url": "https://www.traveloka.com" },
-        { "name": "OpenStreetMap", "url": "https://www.openstreetmap.org" },
-        { "name": "Waze", "url": "https://www.waze.com" }
-      ]
-    },
-    {
-      "name": "Health & Fitness",
-      "items": [
-        { "name": "Halodoc", "url": "https://www.halodoc.com" },
-        { "name": "Alodokter", "url": "https://www.alodokter.com" },
-        { "name": "Kemenkes", "url": "https://www.kemkes.go.id" },
-        { "name": "WHO", "url": "https://www.who.int" },
-        { "name": "Strava", "url": "https://www.strava.com" },
-        { "name": "MyFitnessPal", "url": "https://www.myfitnesspal.com" },
-        { "name": "WebMD", "url": "https://www.webmd.com" },
-        { "name": "Healthline", "url": "https://www.healthline.com" }
-      ]
-    },
-    {
-      "name": "Books & Reading",
-      "items": [
-        { "name": "Goodreads", "url": "https://www.goodreads.com" },
-        { "name": "Google Books", "url": "https://books.google.com" },
-        { "name": "Project Gutenberg", "url": "https://www.gutenberg.org" },
-        { "name": "Open Library", "url": "https://openlibrary.org" },
-        { "name": "Wattpad", "url": "https://www.wattpad.com" },
-        { "name": "Gramedia Digital", "url": "https://ebooks.gramedia.com" },
-        { "name": "Perpusnas", "url": "https://www.perpusnas.go.id" },
-        { "name": "JSTOR", "url": "https://www.jstor.org" }
-      ]
-    },
-    {
-      "name": "Gaming",
-      "items": [
-        { "name": "Steam", "url": "https://store.steampowered.com" },
-        { "name": "Epic Games", "url": "https://store.epicgames.com" },
-        { "name": "itch.io", "url": "https://itch.io" },
-        { "name": "GOG", "url": "https://www.gog.com" },
-        { "name": "Roblox", "url": "https://www.roblox.com" },
-        { "name": "Xbox", "url": "https://www.xbox.com" },
-        { "name": "PlayStation", "url": "https://www.playstation.com" },
-        { "name": "Nintendo", "url": "https://www.nintendo.com" }
-      ]
-    },
-    {
-      "name": "Local Indonesia",
-      "items": [
-        { "name": "Detik", "url": "https://www.detik.com" },
-        { "name": "Kompas", "url": "https://www.kompas.com" },
-        { "name": "CNN Indonesia", "url": "https://www.cnnindonesia.com" },
-        { "name": "Tempo", "url": "https://www.tempo.co" },
-        { "name": "Kumparan", "url": "https://kumparan.com" },
-        { "name": "Tirto", "url": "https://tirto.id" },
-        { "name": "Kaskus", "url": "https://www.kaskus.co.id" },
-        { "name": "Bukalapak", "url": "https://www.bukalapak.com" },
-        { "name": "Gojek", "url": "https://www.gojek.com" },
-        { "name": "BMKG", "url": "https://www.bmkg.go.id" }
+        { "name": "Google Scholar", "url": "https://scholar.google.com" },
+        { "name": "Duolingo", "url": "https://www.duolingo.com" }
       ]
     }
   ]
