@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 2,
+  "locale": "ar",
+  "speedDial": [
+    { "name": "YouTube", "url": "https://youtube.com" },
+    { "name": "Facebook", "url": "https://facebook.com" },
+    { "name": "WhatsApp", "url": "https://whatsapp.com" },
+    { "name": "الجزيرة", "url": "https://www.aljazeera.net" }
+  ],
+  "recommended": {
+    "name": "شاهد",
+    "url": "https://shahid.mbc.net"
+  },
+  "categories": [
+    {
+      "id": "ai",
+      "name": "الذكاء الاصطناعي",
+      "items": [
+        { "name": "ChatGPT", "url": "https://chatgpt.com" },
+        { "name": "Claude", "url": "https://claude.ai" },
+        { "name": "Gemini", "url": "https://gemini.google.com" },
+        { "name": "Copilot", "url": "https://copilot.microsoft.com" },
+        { "name": "Perplexity", "url": "https://www.perplexity.ai" },
+        { "name": "DeepSeek", "url": "https://chat.deepseek.com" },
+        { "name": "Hugging Face", "url": "https://huggingface.co" },
+        { "name": "Grok", "url": "https://grok.com" },
+        { "name": "Mistral", "url": "https://mistral.ai" }
+      ]
+    },
+    {
+      "id": "news",
+      "name": "الأخبار",
+      "items": [
+        { "name": "الجزيرة", "url": "https://www.aljazeera.net" },
+        { "name": "BBC عربي", "url": "https://www.bbc.com/arabic" },
+        { "name": "العربية", "url": "https://www.alarabiya.net" },
+        { "name": "اليوم السابع", "url": "https://www.youm7.com" },
+        { "name": "عرب نيوز", "url": "https://www.arabnews.com" },
+        { "name": "سكاي نيوز عربية", "url": "https://www.skynewsarabia.com" },
+        { "name": "CNN بالعربية", "url": "https://arabic.cnn.com" },
+        { "name": "الشرق الأوسط", "url": "https://aawsat.com" },
+        { "name": "الرياض", "url": "https://www.alriyadh.com" },
+        { "name": "عربي 21", "url": "https://arabi21.com" }
+      ]
+    },
+    {
+      "id": "shopping",
+      "name": "التسوق",
+      "items": [
+        { "name": "أمازون", "url": "https://www.amazon.ae" },
+        { "name": "نون", "url": "https://www.noon.com" },
+        { "name": "جوميا", "url": "https://www.jumia.com" },
+        { "name": "نمشي", "url": "https://www.namshi.com" },
+        { "name": "شي إن", "url": "https://www.shein.com" },
+        { "name": "علي إكسبريس", "url": "https://www.aliexpress.com" },
+        { "name": "إيباي", "url": "https://www.ebay.com" },
+        { "name": "زارا", "url": "https://www.zara.com" },
+        { "name": "أوناس", "url": "https://www.ounass.com" },
+        { "name": "إكسترا", "url": "https://www.extra.com" }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "المال والأعمال",
+      "items": [
+        { "name": "أرقام", "url": "https://www.argaam.com" },
+        { "name": "مباشر", "url": "https://www.mubasher.info" },
+        { "name": "إنفستنغ", "url": "https://sa.investing.com" },
+        { "name": "تداول", "url": "https://www.saudiexchange.sa" },
+        { "name": "سوق دبي المالي", "url": "https://www.dfm.ae" },
+        { "name": "بورصة قطر", "url": "https://www.qe.com.qa" },
+        { "name": "TradingView", "url": "https://www.tradingview.com" },
+        { "name": "CoinMarketCap", "url": "https://coinmarketcap.com" },
+        { "name": "البنك المركزي السعودي", "url": "https://www.sama.gov.sa" }
+      ]
+    },
+    {
+      "id": "learn",
+      "name": "التعلم",
+      "items": [
+        { "name": "ويكيبيديا", "url": "https://ar.wikipedia.org" },
+        { "name": "موضوع", "url": "https://mawdoo3.com" },
+        { "name": "إدراك", "url": "https://www.edraak.org" },
+        { "name": "رواق", "url": "https://www.rwaq.org" },
+        { "name": "كورسيرا", "url": "https://www.coursera.org" },
+        { "name": "خان أكاديمي", "url": "https://ar.khanacademy.org" },
+        { "name": "يوديمي", "url": "https://www.udemy.com" },
+        { "name": "نفهم", "url": "https://www.nafham.com" },
+        { "name": "المدرسة", "url": "https://www.almadrasah.com" },
+        { "name": "Stack Overflow", "url": "https://stackoverflow.com" },
+        { "name": "MDN", "url": "https://developer.mozilla.org" }
+      ]
+    }
+  ]
+}

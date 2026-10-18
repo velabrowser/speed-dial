@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 2,
+  "locale": "pt",
+  "speedDial": [
+    { "name": "YouTube", "url": "https://youtube.com" },
+    { "name": "WhatsApp", "url": "https://web.whatsapp.com" },
+    { "name": "Instagram", "url": "https://www.instagram.com" },
+    { "name": "Google", "url": "https://www.google.com" }
+  ],
+  "recommended": {
+    "name": "UOL",
+    "url": "https://www.uol.com.br"
+  },
+  "categories": [
+    {
+      "id": "ai",
+      "name": "IA",
+      "items": [
+        { "name": "ChatGPT", "url": "https://chatgpt.com" },
+        { "name": "Claude", "url": "https://claude.ai" },
+        { "name": "Gemini", "url": "https://gemini.google.com" },
+        { "name": "Copilot", "url": "https://copilot.microsoft.com" },
+        { "name": "Perplexity", "url": "https://www.perplexity.ai" },
+        { "name": "DeepSeek", "url": "https://chat.deepseek.com" },
+        { "name": "Hugging Face", "url": "https://huggingface.co" },
+        { "name": "Grok", "url": "https://grok.com" }
+      ]
+    },
+    {
+      "id": "news",
+      "name": "Notícias",
+      "items": [
+        { "name": "G1", "url": "https://g1.globo.com" },
+        { "name": "Folha de S.Paulo", "url": "https://www.folha.uol.com.br" },
+        { "name": "UOL", "url": "https://www.uol.com.br" },
+        { "name": "Estadão", "url": "https://www.estadao.com.br" },
+        { "name": "Público", "url": "https://www.publico.pt" },
+        { "name": "Observador", "url": "https://observador.pt" },
+        { "name": "BBC News Brasil", "url": "https://www.bbc.com/portuguese" },
+        { "name": "CNN Brasil", "url": "https://www.cnnbrasil.com.br" },
+        { "name": "Jornal de Notícias", "url": "https://www.jn.pt" },
+        { "name": "Metrópoles", "url": "https://www.metropoles.com" }
+      ]
+    },
+    {
+      "id": "shopping",
+      "name": "Compras",
+      "items": [
+        { "name": "Mercado Livre", "url": "https://www.mercadolivre.com.br" },
+        { "name": "Amazon", "url": "https://www.amazon.com.br" },
+        { "name": "Magazine Luiza", "url": "https://www.magazineluiza.com.br" },
+        { "name": "Casas Bahia", "url": "https://www.casasbahia.com.br" },
+        { "name": "OLX", "url": "https://www.olx.com.br" },
+        { "name": "Shopee", "url": "https://shopee.com.br" },
+        { "name": "Americanas", "url": "https://www.americanas.com.br" },
+        { "name": "AliExpress", "url": "https://www.aliexpress.com" },
+        { "name": "Temu", "url": "https://www.temu.com" },
+        { "name": "Worten", "url": "https://www.worten.pt" }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "Finanças",
+      "items": [
+        { "name": "InfoMoney", "url": "https://www.infomoney.com.br" },
+        { "name": "Valor Econômico", "url": "https://valor.globo.com" },
+        { "name": "B3", "url": "https://www.b3.com.br" },
+        { "name": "Investing.com", "url": "https://br.investing.com" },
+        { "name": "TradingView", "url": "https://www.tradingview.com" },
+        { "name": "CoinMarketCap", "url": "https://coinmarketcap.com" },
+        { "name": "Exame", "url": "https://exame.com" },
+        { "name": "Yahoo Finanças", "url": "https://finance.yahoo.com" },
+        { "name": "Banco Central do Brasil", "url": "https://www.bcb.gov.br" }
+      ]
+    },
+    {
+      "id": "learn",
+      "name": "Aprender",
+      "items": [
+        { "name": "Wikipedia", "url": "https://pt.wikipedia.org" },
+        { "name": "Fundação Bradesco", "url": "https://www.ev.org.br" },
+        { "name": "Alura", "url": "https://www.alura.com.br" },
+        { "name": "Curso em Vídeo", "url": "https://www.cursoemvideo.com" },
+        { "name": "Coursera", "url": "https://www.coursera.org" },
+        { "name": "Duolingo", "url": "https://www.duolingo.com" },
+        { "name": "Khan Academy", "url": "https://pt.khanacademy.org" },
+        { "name": "MDN", "url": "https://developer.mozilla.org" },
+        { "name": "freeCodeCamp", "url": "https://www.freecodecamp.org" },
+        { "name": "Stack Overflow", "url": "https://stackoverflow.com" },
+        { "name": "Google Acadêmico", "url": "https://scholar.google.com" }
+      ]
+    }
+  ]
+}

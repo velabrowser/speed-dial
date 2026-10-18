@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 2,
+  "locale": "vi",
+  "speedDial": [
+    { "name": "Google", "url": "https://www.google.com" },
+    { "name": "YouTube", "url": "https://www.youtube.com" },
+    { "name": "Facebook", "url": "https://www.facebook.com" },
+    { "name": "VnExpress", "url": "https://vnexpress.net" }
+  ],
+  "recommended": { "name": "Tuoi Tre", "url": "https://tuoitre.vn" },
+  "categories": [
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        { "name": "ChatGPT", "url": "https://chatgpt.com" },
+        { "name": "Claude", "url": "https://claude.ai" },
+        { "name": "Gemini", "url": "https://gemini.google.com" },
+        { "name": "Copilot", "url": "https://copilot.microsoft.com" },
+        { "name": "Perplexity", "url": "https://www.perplexity.ai" },
+        { "name": "DeepSeek", "url": "https://chat.deepseek.com" },
+        { "name": "Hugging Face", "url": "https://huggingface.co" },
+        { "name": "Qwen", "url": "https://chat.qwen.ai" },
+        { "name": "Kimi", "url": "https://kimi.moonshot.cn" }
+      ]
+    },
+    {
+      "id": "news",
+      "name": "Tin tức",
+      "items": [
+        { "name": "VnExpress", "url": "https://vnexpress.net" },
+        { "name": "Tuoi Tre", "url": "https://tuoitre.vn" },
+        { "name": "Thanh Nien", "url": "https://thanhnien.vn" },
+        { "name": "VietnamNet", "url": "https://vietnamnet.vn" },
+        { "name": "Nhan Dan", "url": "https://nhandan.vn" },
+        { "name": "Znews", "url": "https://znews.vn" },
+        { "name": "Dan Tri", "url": "https://dantri.com.vn" },
+        { "name": "VietNam News", "url": "https://vietnamnews.vn" },
+        { "name": "Bao Moi", "url": "https://baomoi.com" },
+        { "name": "Kenh14", "url": "https://kenh14.vn" }
+      ]
+    },
+    {
+      "id": "shopping",
+      "name": "Mua sắm",
+      "items": [
+        { "name": "Shopee", "url": "https://shopee.vn" },
+        { "name": "Lazada", "url": "https://www.lazada.vn" },
+        { "name": "Tiki", "url": "https://tiki.vn" },
+        { "name": "Sendo", "url": "https://www.sendo.vn" },
+        { "name": "CellphoneS", "url": "https://cellphones.com.vn" },
+        { "name": "FPT Shop", "url": "https://fptshop.com.vn" },
+        { "name": "Thegioididong", "url": "https://www.thegioididong.com" },
+        { "name": "Bach Hoa Xanh", "url": "https://www.bachhoaxanh.com" },
+        { "name": "Dien May Xanh", "url": "https://www.dienmayxanh.com" },
+        { "name": "Nguyen Kim", "url": "https://www.nguyenkim.com" }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "Tài chính",
+      "items": [
+        { "name": "CafeF", "url": "https://cafef.vn" },
+        { "name": "Vietstock", "url": "https://vietstock.vn" },
+        { "name": "VnEconomy", "url": "https://vneconomy.vn" },
+        { "name": "SSI", "url": "https://www.ssi.com.vn" },
+        { "name": "Vietcombank", "url": "https://www.vietcombank.com.vn" },
+        { "name": "BIDV", "url": "https://www.bidv.com.vn" },
+        { "name": "HOSE", "url": "https://www.hsx.vn" },
+        { "name": "VNDirect", "url": "https://www.vndirect.com.vn" },
+        { "name": "FireAnt", "url": "https://fireant.vn" },
+        { "name": "Investing.com", "url": "https://www.investing.com" }
+      ]
+    },
+    {
+      "id": "learn",
+      "name": "Học tập",
+      "items": [
+        { "name": "Wikipedia", "url": "https://vi.wikipedia.org" },
+        { "name": "VietJack", "url": "https://www.vietjack.com" },
+        { "name": "Hocmai", "url": "https://hocmai.vn" },
+        { "name": "Duolingo", "url": "https://www.duolingo.com" },
+        { "name": "FPT Education", "url": "https://fpt.edu.vn" },
+        { "name": "Khan Academy", "url": "https://www.khanacademy.org" },
+        { "name": "Coursera", "url": "https://www.coursera.org" },
+        { "name": "freeCodeCamp", "url": "https://www.freecodecamp.org" },
+        { "name": "MDN", "url": "https://developer.mozilla.org" },
+        { "name": "GitHub", "url": "https://github.com" },
+        { "name": "Stack Overflow", "url": "https://stackoverflow.com" }
+      ]
+    }
+  ]
+}

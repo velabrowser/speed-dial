@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 2,
+  "locale": "de",
+  "speedDial": [
+    { "name": "YouTube", "url": "https://youtube.com" },
+    { "name": "Amazon.de", "url": "https://www.amazon.de" },
+    { "name": "Spiegel", "url": "https://www.spiegel.de" },
+    { "name": "Kleinanzeigen", "url": "https://www.kleinanzeigen.de" }
+  ],
+  "recommended": {
+    "name": "Tagesschau",
+    "url": "https://www.tagesschau.de"
+  },
+  "categories": [
+    {
+      "id": "ai",
+      "name": "KI",
+      "items": [
+        { "name": "ChatGPT", "url": "https://chatgpt.com" },
+        { "name": "Claude", "url": "https://claude.ai" },
+        { "name": "Gemini", "url": "https://gemini.google.com" },
+        { "name": "Copilot", "url": "https://copilot.microsoft.com" },
+        { "name": "Perplexity", "url": "https://www.perplexity.ai" },
+        { "name": "DeepSeek", "url": "https://chat.deepseek.com" },
+        { "name": "Hugging Face", "url": "https://huggingface.co" },
+        { "name": "Mistral", "url": "https://mistral.ai" },
+        { "name": "Aleph Alpha", "url": "https://aleph-alpha.com" },
+        { "name": "Grok", "url": "https://grok.com" }
+      ]
+    },
+    {
+      "id": "news",
+      "name": "Nachrichten",
+      "items": [
+        { "name": "Spiegel", "url": "https://www.spiegel.de" },
+        { "name": "Zeit", "url": "https://www.zeit.de" },
+        { "name": "FAZ", "url": "https://www.faz.net" },
+        { "name": "Süddeutsche", "url": "https://www.sueddeutsche.de" },
+        { "name": "Tagesschau", "url": "https://www.tagesschau.de" },
+        { "name": "Heise", "url": "https://www.heise.de" },
+        { "name": "Welt", "url": "https://www.welt.de" },
+        { "name": "taz", "url": "https://taz.de" },
+        { "name": "ntv", "url": "https://www.n-tv.de" }
+      ]
+    },
+    {
+      "id": "shopping",
+      "name": "Einkaufen",
+      "items": [
+        { "name": "Amazon.de", "url": "https://www.amazon.de" },
+        { "name": "Otto", "url": "https://www.otto.de" },
+        { "name": "Kleinanzeigen", "url": "https://www.kleinanzeigen.de" },
+        { "name": "MediaMarkt", "url": "https://www.mediamarkt.de" },
+        { "name": "Zalando", "url": "https://www.zalando.de" },
+        { "name": "eBay", "url": "https://www.ebay.de" },
+        { "name": "Saturn", "url": "https://www.saturn.de" },
+        { "name": "Lidl", "url": "https://www.lidl.de" },
+        { "name": "Idealo", "url": "https://www.idealo.de" }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "Finanzen",
+      "items": [
+        { "name": "Finanzen.net", "url": "https://www.finanzen.net" },
+        { "name": "Handelsblatt", "url": "https://www.handelsblatt.com" },
+        { "name": "Börse Frankfurt", "url": "https://www.boerse-frankfurt.de" },
+        { "name": "Onvista", "url": "https://www.onvista.de" },
+        { "name": "Yahoo Finance", "url": "https://finance.yahoo.com" },
+        { "name": "Investing.com", "url": "https://www.investing.com" },
+        { "name": "TradingView", "url": "https://www.tradingview.com" },
+        { "name": "Deutsche Börse", "url": "https://www.deutsche-boerse.com" },
+        { "name": "Bundesbank", "url": "https://www.bundesbank.de" },
+        { "name": "CoinGecko", "url": "https://www.coingecko.com" }
+      ]
+    },
+    {
+      "id": "learn",
+      "name": "Lernen",
+      "items": [
+        { "name": "Wikipedia", "url": "https://de.wikipedia.org" },
+        { "name": "Deutsche Welle", "url": "https://learngerman.dw.com" },
+        { "name": "Coursera", "url": "https://www.coursera.org" },
+        { "name": "Duolingo", "url": "https://www.duolingo.com" },
+        { "name": "Stack Overflow", "url": "https://stackoverflow.com" },
+        { "name": "MDN", "url": "https://developer.mozilla.org" },
+        { "name": "Khan Academy", "url": "https://www.khanacademy.org" },
+        { "name": "openHPI", "url": "https://open.hpi.de" },
+        { "name": "freeCodeCamp", "url": "https://www.freecodecamp.org" },
+        { "name": "edX", "url": "https://www.edx.org" }
+      ]
+    }
+  ]
+}

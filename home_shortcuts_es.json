@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 2,
+  "locale": "es",
+  "speedDial": [
+    { "name": "YouTube", "url": "https://youtube.com" },
+    { "name": "WhatsApp", "url": "https://web.whatsapp.com" },
+    { "name": "Google", "url": "https://www.google.com" },
+    { "name": "Amazon", "url": "https://www.amazon.es" }
+  ],
+  "recommended": {
+    "name": "Marca",
+    "url": "https://www.marca.com"
+  },
+  "categories": [
+    {
+      "id": "ai",
+      "name": "IA",
+      "items": [
+        { "name": "ChatGPT", "url": "https://chatgpt.com" },
+        { "name": "Claude", "url": "https://claude.ai" },
+        { "name": "Gemini", "url": "https://gemini.google.com" },
+        { "name": "Copilot", "url": "https://copilot.microsoft.com" },
+        { "name": "Perplexity", "url": "https://www.perplexity.ai" },
+        { "name": "DeepSeek", "url": "https://chat.deepseek.com" },
+        { "name": "Hugging Face", "url": "https://huggingface.co" },
+        { "name": "Grok", "url": "https://grok.com" }
+      ]
+    },
+    {
+      "id": "news",
+      "name": "Noticias",
+      "items": [
+        { "name": "El País", "url": "https://elpais.com" },
+        { "name": "El Mundo", "url": "https://www.elmundo.es" },
+        { "name": "ABC", "url": "https://www.abc.es" },
+        { "name": "La Vanguardia", "url": "https://www.lavanguardia.com" },
+        { "name": "20minutos", "url": "https://www.20minutos.es" },
+        { "name": "BBC Mundo", "url": "https://www.bbc.com/mundo" },
+        { "name": "El Confidencial", "url": "https://www.elconfidencial.com" },
+        { "name": "El Periódico", "url": "https://www.elperiodico.com" },
+        { "name": "RTVE", "url": "https://www.rtve.es" },
+        { "name": "La Razón", "url": "https://www.larazon.es" }
+      ]
+    },
+    {
+      "id": "shopping",
+      "name": "Compras",
+      "items": [
+        { "name": "Amazon", "url": "https://www.amazon.es" },
+        { "name": "El Corte Inglés", "url": "https://www.elcorteingles.es" },
+        { "name": "Mercado Libre", "url": "https://www.mercadolibre.com" },
+        { "name": "AliExpress", "url": "https://www.aliexpress.com" },
+        { "name": "eBay", "url": "https://www.ebay.es" },
+        { "name": "IKEA", "url": "https://www.ikea.com" },
+        { "name": "Zara", "url": "https://www.zara.com" },
+        { "name": "MediaMarkt", "url": "https://www.mediamarkt.es" },
+        { "name": "Carrefour", "url": "https://www.carrefour.es" },
+        { "name": "Wallapop", "url": "https://wallapop.com" }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "Finanzas",
+      "items": [
+        { "name": "Expansión", "url": "https://www.expansion.com" },
+        { "name": "Cinco Días", "url": "https://cincodias.elpais.com" },
+        { "name": "Investing.com", "url": "https://es.investing.com" },
+        { "name": "Bolsa de Madrid", "url": "https://www.bolsamadrid.es" },
+        { "name": "El Economista", "url": "https://www.eleconomista.es" },
+        { "name": "Yahoo Finanzas", "url": "https://finance.yahoo.com" },
+        { "name": "TradingView", "url": "https://www.tradingview.com" },
+        { "name": "CoinMarketCap", "url": "https://coinmarketcap.com" },
+        { "name": "Banco de España", "url": "https://www.bde.es" }
+      ]
+    },
+    {
+      "id": "learn",
+      "name": "Aprender",
+      "items": [
+        { "name": "Wikipedia", "url": "https://es.wikipedia.org" },
+        { "name": "Universia", "url": "https://www.universia.net" },
+        { "name": "UNED", "url": "https://www.uned.es" },
+        { "name": "Instituto Cervantes", "url": "https://www.cervantes.es" },
+        { "name": "Coursera", "url": "https://www.coursera.org" },
+        { "name": "Duolingo", "url": "https://www.duolingo.com" },
+        { "name": "Khan Academy", "url": "https://es.khanacademy.org" },
+        { "name": "edX", "url": "https://www.edx.org" },
+        { "name": "MDN", "url": "https://developer.mozilla.org" },
+        { "name": "freeCodeCamp", "url": "https://www.freecodecamp.org" },
+        { "name": "Stack Overflow", "url": "https://stackoverflow.com" },
+        { "name": "Google Académico", "url": "https://scholar.google.com" }
+      ]
+    }
+  ]
+}

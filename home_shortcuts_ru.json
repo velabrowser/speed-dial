@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 2,
+  "locale": "ru",
+  "speedDial": [
+    { "name": "Яндекс", "url": "https://yandex.ru" },
+    { "name": "ВКонтакте", "url": "https://vk.com" },
+    { "name": "Ozon", "url": "https://www.ozon.ru" },
+    { "name": "YouTube", "url": "https://youtube.com" }
+  ],
+  "recommended": {
+    "name": "Кинопоиск",
+    "url": "https://www.kinopoisk.ru"
+  },
+  "categories": [
+    {
+      "id": "ai",
+      "name": "ИИ",
+      "items": [
+        { "name": "ChatGPT", "url": "https://chatgpt.com" },
+        { "name": "Claude", "url": "https://claude.ai" },
+        { "name": "Gemini", "url": "https://gemini.google.com" },
+        { "name": "Copilot", "url": "https://copilot.microsoft.com" },
+        { "name": "Perplexity", "url": "https://www.perplexity.ai" },
+        { "name": "DeepSeek", "url": "https://chat.deepseek.com" },
+        { "name": "Hugging Face", "url": "https://huggingface.co" },
+        { "name": "Алиса", "url": "https://alice.yandex.ru" },
+        { "name": "Mistral", "url": "https://mistral.ai" },
+        { "name": "Grok", "url": "https://grok.com" }
+      ]
+    },
+    {
+      "id": "news",
+      "name": "Новости",
+      "items": [
+        { "name": "РИА Новости", "url": "https://ria.ru" },
+        { "name": "ТАСС", "url": "https://tass.ru" },
+        { "name": "РБК", "url": "https://www.rbc.ru" },
+        { "name": "Lenta.ru", "url": "https://lenta.ru" },
+        { "name": "Коммерсантъ", "url": "https://www.kommersant.ru" },
+        { "name": "Meduza", "url": "https://meduza.io" },
+        { "name": "Газета.ru", "url": "https://www.gazeta.ru" },
+        { "name": "Интерфакс", "url": "https://www.interfax.ru" },
+        { "name": "Ведомости", "url": "https://www.vedomosti.ru" }
+      ]
+    },
+    {
+      "id": "shopping",
+      "name": "Покупки",
+      "items": [
+        { "name": "Ozon", "url": "https://www.ozon.ru" },
+        { "name": "Wildberries", "url": "https://www.wildberries.ru" },
+        { "name": "Яндекс Маркет", "url": "https://market.yandex.ru" },
+        { "name": "Авито", "url": "https://www.avito.ru" },
+        { "name": "AliExpress", "url": "https://www.aliexpress.com" },
+        { "name": "Lamoda", "url": "https://www.lamoda.ru" },
+        { "name": "DNS", "url": "https://www.dns-shop.ru" },
+        { "name": "М.Видео", "url": "https://www.mvideo.ru" },
+        { "name": "Ситилинк", "url": "https://www.citilink.ru" }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "Финансы",
+      "items": [
+        { "name": "Московская биржа", "url": "https://www.moex.com" },
+        { "name": "Банк России", "url": "https://www.cbr.ru" },
+        { "name": "Investing.com", "url": "https://www.investing.com" },
+        { "name": "TradingView", "url": "https://www.tradingview.com" },
+        { "name": "Yahoo Finance", "url": "https://finance.yahoo.com" },
+        { "name": "Сбербанк", "url": "https://www.sberbank.ru" },
+        { "name": "Т-Банк", "url": "https://www.tbank.ru" },
+        { "name": "Финам", "url": "https://www.finam.ru" },
+        { "name": "CoinGecko", "url": "https://www.coingecko.com" }
+      ]
+    },
+    {
+      "id": "learn",
+      "name": "Обучение",
+      "items": [
+        { "name": "Википедия", "url": "https://ru.wikipedia.org" },
+        { "name": "Stepik", "url": "https://stepik.org" },
+        { "name": "Skillbox", "url": "https://skillbox.ru" },
+        { "name": "Coursera", "url": "https://www.coursera.org" },
+        { "name": "Duolingo", "url": "https://www.duolingo.com" },
+        { "name": "Stack Overflow", "url": "https://stackoverflow.com" },
+        { "name": "MDN", "url": "https://developer.mozilla.org" },
+        { "name": "Khan Academy", "url": "https://www.khanacademy.org" },
+        { "name": "Арзамас", "url": "https://arzamas.academy" },
+        { "name": "freeCodeCamp", "url": "https://www.freecodecamp.org" }
+      ]
+    }
+  ]
+}

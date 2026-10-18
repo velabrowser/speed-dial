@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 2,
+  "locale": "zh",
+  "speedDial": [
+    { "name": "Baidu", "url": "https://www.baidu.com" },
+    { "name": "Weibo", "url": "https://weibo.com" },
+    { "name": "Bilibili", "url": "https://www.bilibili.com" },
+    { "name": "Taobao", "url": "https://www.taobao.com" }
+  ],
+  "recommended": {
+    "name": "Zhihu",
+    "url": "https://www.zhihu.com"
+  },
+  "categories": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "items": [
+        { "name": "ChatGPT", "url": "https://chatgpt.com" },
+        { "name": "Claude", "url": "https://claude.ai" },
+        { "name": "Gemini", "url": "https://gemini.google.com" },
+        { "name": "Copilot", "url": "https://copilot.microsoft.com" },
+        { "name": "Perplexity", "url": "https://www.perplexity.ai" },
+        { "name": "DeepSeek", "url": "https://chat.deepseek.com" },
+        { "name": "Hugging Face", "url": "https://huggingface.co" },
+        { "name": "Doubao", "url": "https://www.doubao.com" },
+        { "name": "Kimi", "url": "https://kimi.moonshot.cn" },
+        { "name": "Qwen", "url": "https://chat.qwen.ai" },
+        { "name": "Zhipu GLM", "url": "https://chatglm.cn" },
+        { "name": "Ernie", "url": "https://yiyan.baidu.com" }
+      ]
+    },
+    {
+      "id": "news",
+      "name": "新闻",
+      "items": [
+        { "name": "新浪新闻", "url": "https://news.sina.com.cn" },
+        { "name": "腾讯新闻", "url": "https://news.qq.com" },
+        { "name": "网易新闻", "url": "https://news.163.com" },
+        { "name": "澎湃新闻", "url": "https://www.thepaper.cn" },
+        { "name": "新华网", "url": "https://www.xinhuanet.com" },
+        { "name": "财新网", "url": "https://www.caixin.com" },
+        { "name": "央视网", "url": "https://www.cctv.com" },
+        { "name": "中国新闻网", "url": "https://www.chinanews.com.cn" },
+        { "name": "界面新闻", "url": "https://www.jiemian.com" },
+        { "name": "环球网", "url": "https://www.huanqiu.com" }
+      ]
+    },
+    {
+      "id": "shopping",
+      "name": "购物",
+      "items": [
+        { "name": "淘宝", "url": "https://www.taobao.com" },
+        { "name": "京东", "url": "https://www.jd.com" },
+        { "name": "拼多多", "url": "https://www.pinduoduo.com" },
+        { "name": "天猫", "url": "https://www.tmall.com" },
+        { "name": "苏宁易购", "url": "https://www.suning.com" },
+        { "name": "唯品会", "url": "https://www.vip.com" },
+        { "name": "闲鱼", "url": "https://www.goofish.com" },
+        { "name": "1688", "url": "https://www.1688.com" },
+        { "name": "小红书", "url": "https://www.xiaohongshu.com" },
+        { "name": "抖音", "url": "https://www.douyin.com" }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "财经",
+      "items": [
+        { "name": "东方财富", "url": "https://www.eastmoney.com" },
+        { "name": "雪球", "url": "https://xueqiu.com" },
+        { "name": "新浪财经", "url": "https://finance.sina.com.cn" },
+        { "name": "同花顺", "url": "https://www.10jqka.com.cn" },
+        { "name": "和讯网", "url": "https://www.hexun.com" },
+        { "name": "证券时报", "url": "https://www.stcn.com" },
+        { "name": "中国证券网", "url": "https://www.cnstock.com" },
+        { "name": "第一财经", "url": "https://www.yicai.com" },
+        { "name": "华尔街见闻", "url": "https://wallstreetcn.com" },
+        { "name": "金融界", "url": "https://www.jrj.com.cn" }
+      ]
+    },
+    {
+      "id": "learn",
+      "name": "学习",
+      "items": [
+        { "name": "知乎", "url": "https://www.zhihu.com" },
+        { "name": "Bilibili", "url": "https://www.bilibili.com" },
+        { "name": "中国大学MOOC", "url": "https://www.icourse163.org" },
+        { "name": "维基百科", "url": "https://zh.wikipedia.org" },
+        { "name": "Duolingo", "url": "https://www.duolingo.com" },
+        { "name": "Coursera", "url": "https://www.coursera.org" },
+        { "name": "MDN", "url": "https://developer.mozilla.org" },
+        { "name": "Stack Overflow", "url": "https://stackoverflow.com" },
+        { "name": "GitHub", "url": "https://github.com" },
+        { "name": "网易公开课", "url": "https://open.163.com" },
+        { "name": "学堂在线", "url": "https://www.xuetangx.com" },
+        { "name": "freeCodeCamp", "url": "https://www.freecodecamp.org" }
+      ]
+    }
+  ]
+}

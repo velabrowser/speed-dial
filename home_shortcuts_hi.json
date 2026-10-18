@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 2,
+  "locale": "hi",
+  "speedDial": [
+    { "name": "YouTube", "url": "https://youtube.com" },
+    { "name": "Facebook", "url": "https://facebook.com" },
+    { "name": "WhatsApp", "url": "https://whatsapp.com" },
+    { "name": "Flipkart", "url": "https://www.flipkart.com" }
+  ],
+  "recommended": {
+    "name": "IRCTC",
+    "url": "https://www.irctc.co.in"
+  },
+  "categories": [
+    {
+      "id": "ai",
+      "name": "एआई",
+      "items": [
+        { "name": "ChatGPT", "url": "https://chatgpt.com" },
+        { "name": "Claude", "url": "https://claude.ai" },
+        { "name": "Gemini", "url": "https://gemini.google.com" },
+        { "name": "Copilot", "url": "https://copilot.microsoft.com" },
+        { "name": "Perplexity", "url": "https://www.perplexity.ai" },
+        { "name": "DeepSeek", "url": "https://chat.deepseek.com" },
+        { "name": "Hugging Face", "url": "https://huggingface.co" },
+        { "name": "Krutrim", "url": "https://www.olakrutrim.com" },
+        { "name": "Bhashini", "url": "https://bhashini.gov.in" },
+        { "name": "Grok", "url": "https://grok.com" }
+      ]
+    },
+    {
+      "id": "news",
+      "name": "समाचार",
+      "items": [
+        { "name": "NDTV India", "url": "https://ndtv.in" },
+        { "name": "आज तक", "url": "https://www.aajtak.in" },
+        { "name": "दैनिक भास्कर", "url": "https://www.bhaskar.com" },
+        { "name": "अमर उजाला", "url": "https://www.amarujala.com" },
+        { "name": "हिन्दुस्तान", "url": "https://www.livehindustan.com" },
+        { "name": "BBC हिंदी", "url": "https://www.bbc.com/hindi" },
+        { "name": "ज़ी न्यूज़", "url": "https://zeenews.india.com" },
+        { "name": "नवभारत टाइम्स", "url": "https://navbharattimes.indiatimes.com" },
+        { "name": "इंडिया टीवी", "url": "https://www.indiatv.in" },
+        { "name": "The Indian Express", "url": "https://indianexpress.com" }
+      ]
+    },
+    {
+      "id": "shopping",
+      "name": "शॉपिंग",
+      "items": [
+        { "name": "Flipkart", "url": "https://www.flipkart.com" },
+        { "name": "Amazon India", "url": "https://www.amazon.in" },
+        { "name": "Myntra", "url": "https://www.myntra.com" },
+        { "name": "Snapdeal", "url": "https://www.snapdeal.com" },
+        { "name": "Meesho", "url": "https://www.meesho.com" },
+        { "name": "AJIO", "url": "https://www.ajio.com" },
+        { "name": "Nykaa", "url": "https://www.nykaa.com" },
+        { "name": "Tata CLiQ", "url": "https://www.tatacliq.com" },
+        { "name": "FirstCry", "url": "https://www.firstcry.com" }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "वित्त",
+      "items": [
+        { "name": "Moneycontrol", "url": "https://www.moneycontrol.com" },
+        { "name": "Economic Times", "url": "https://economictimes.indiatimes.com" },
+        { "name": "NSE India", "url": "https://www.nseindia.com" },
+        { "name": "BSE India", "url": "https://www.bseindia.com" },
+        { "name": "Groww", "url": "https://groww.in" },
+        { "name": "Zerodha", "url": "https://zerodha.com" },
+        { "name": "ET Money", "url": "https://www.etmoney.com" },
+        { "name": "ClearTax", "url": "https://cleartax.in" },
+        { "name": "CoinDCX", "url": "https://coindcx.com" },
+        { "name": "RBI", "url": "https://www.rbi.org.in" }
+      ]
+    },
+    {
+      "id": "learn",
+      "name": "शिक्षा",
+      "items": [
+        { "name": "विकिपीडिया", "url": "https://hi.wikipedia.org" },
+        { "name": "NPTEL", "url": "https://nptel.ac.in" },
+        { "name": "SWAYAM", "url": "https://swayam.gov.in" },
+        { "name": "DIKSHA", "url": "https://diksha.gov.in" },
+        { "name": "Byju's", "url": "https://byjus.com" },
+        { "name": "Unacademy", "url": "https://unacademy.com" },
+        { "name": "खान अकादमी", "url": "https://hi.khanacademy.org" },
+        { "name": "Duolingo", "url": "https://www.duolingo.com" },
+        { "name": "Coursera", "url": "https://www.coursera.org" },
+        { "name": "Stack Overflow", "url": "https://stackoverflow.com" },
+        { "name": "MDN", "url": "https://developer.mozilla.org" }
+      ]
+    }
+  ]
+}

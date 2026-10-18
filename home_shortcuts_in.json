@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 2,
+  "locale": "in",
+  "speedDial": [
+    { "name": "Google", "url": "https://www.google.com" },
+    { "name": "YouTube", "url": "https://www.youtube.com" },
+    { "name": "WhatsApp", "url": "https://web.whatsapp.com" },
+    { "name": "Tokopedia", "url": "https://www.tokopedia.com" }
+  ],
+  "recommended": { "name": "Kompas", "url": "https://www.kompas.com" },
+  "categories": [
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        { "name": "ChatGPT", "url": "https://chatgpt.com" },
+        { "name": "Claude", "url": "https://claude.ai" },
+        { "name": "Gemini", "url": "https://gemini.google.com" },
+        { "name": "Copilot", "url": "https://copilot.microsoft.com" },
+        { "name": "Perplexity", "url": "https://www.perplexity.ai" },
+        { "name": "DeepSeek", "url": "https://chat.deepseek.com" },
+        { "name": "Hugging Face", "url": "https://huggingface.co" },
+        { "name": "Qwen", "url": "https://chat.qwen.ai" },
+        { "name": "Kimi", "url": "https://kimi.moonshot.cn" }
+      ]
+    },
+    {
+      "id": "news",
+      "name": "Berita",
+      "items": [
+        { "name": "Detik", "url": "https://www.detik.com" },
+        { "name": "Kompas", "url": "https://www.kompas.com" },
+        { "name": "CNN Indonesia", "url": "https://www.cnnindonesia.com" },
+        { "name": "Tempo", "url": "https://www.tempo.co" },
+        { "name": "Kumparan", "url": "https://kumparan.com" },
+        { "name": "CNBC Indonesia", "url": "https://www.cnbcindonesia.com" },
+        { "name": "Liputan6", "url": "https://www.liputan6.com" },
+        { "name": "Antara", "url": "https://www.antaranews.com" },
+        { "name": "Tribun News", "url": "https://www.tribunnews.com" },
+        { "name": "Suara", "url": "https://www.suara.com" }
+      ]
+    },
+    {
+      "id": "shopping",
+      "name": "Belanja",
+      "items": [
+        { "name": "Tokopedia", "url": "https://www.tokopedia.com" },
+        { "name": "Shopee", "url": "https://shopee.co.id" },
+        { "name": "Bukalapak", "url": "https://www.bukalapak.com" },
+        { "name": "Lazada", "url": "https://www.lazada.co.id" },
+        { "name": "Blibli", "url": "https://www.blibli.com" },
+        { "name": "Zalora", "url": "https://www.zalora.co.id" },
+        { "name": "Bhinneka", "url": "https://www.bhinneka.com" },
+        { "name": "Sociolla", "url": "https://www.sociolla.com" },
+        { "name": "Matahari", "url": "https://www.matahari.com" },
+        { "name": "IKEA Indonesia", "url": "https://www.ikea.co.id" }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "Keuangan",
+      "items": [
+        { "name": "IDX", "url": "https://www.idx.co.id" },
+        { "name": "OJK", "url": "https://www.ojk.go.id" },
+        { "name": "Bank Indonesia", "url": "https://www.bi.go.id" },
+        { "name": "Bareksa", "url": "https://www.bareksa.com" },
+        { "name": "Bibit", "url": "https://bibit.id" },
+        { "name": "Ajaib", "url": "https://ajaib.co.id" },
+        { "name": "Stockbit", "url": "https://stockbit.com" },
+        { "name": "Kontan", "url": "https://www.kontan.co.id" },
+        { "name": "Investing.com", "url": "https://www.investing.com" },
+        { "name": "Yahoo Finance", "url": "https://finance.yahoo.com" }
+      ]
+    },
+    {
+      "id": "learn",
+      "name": "Belajar",
+      "items": [
+        { "name": "Wikipedia", "url": "https://id.wikipedia.org" },
+        { "name": "Ruangguru", "url": "https://www.ruangguru.com" },
+        { "name": "Zenius", "url": "https://www.zenius.net" },
+        { "name": "Duolingo", "url": "https://www.duolingo.com" },
+        { "name": "Dicoding", "url": "https://www.dicoding.com" },
+        { "name": "Khan Academy", "url": "https://www.khanacademy.org" },
+        { "name": "Coursera", "url": "https://www.coursera.org" },
+        { "name": "freeCodeCamp", "url": "https://www.freecodecamp.org" },
+        { "name": "MDN", "url": "https://developer.mozilla.org" },
+        { "name": "GitHub", "url": "https://github.com" },
+        { "name": "Stack Overflow", "url": "https://stackoverflow.com" }
+      ]
+    }
+  ]
+}

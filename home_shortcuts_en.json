@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 2,
+  "locale": "en",
+  "speedDial": [
+    { "name": "YouTube", "url": "https://youtube.com" },
+    { "name": "Facebook", "url": "https://facebook.com" },
+    { "name": "ChatGPT", "url": "https://chatgpt.com" },
+    { "name": "X", "url": "https://x.com" }
+  ],
+  "recommended": {
+    "name": "Dailymotion",
+    "url": "https://dailymotion.com"
+  },
+  "categories": [
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        { "name": "ChatGPT", "url": "https://chatgpt.com" },
+        { "name": "Claude", "url": "https://claude.ai" },
+        { "name": "Gemini", "url": "https://gemini.google.com" },
+        { "name": "Copilot", "url": "https://copilot.microsoft.com" },
+        { "name": "Perplexity", "url": "https://www.perplexity.ai" },
+        { "name": "Grok", "url": "https://grok.com" },
+        { "name": "DeepSeek", "url": "https://chat.deepseek.com" },
+        { "name": "Hugging Face", "url": "https://huggingface.co" }
+      ]
+    },
+    {
+      "id": "news",
+      "name": "News",
+      "items": [
+        { "name": "Google News", "url": "https://news.google.com" },
+        { "name": "BBC", "url": "https://www.bbc.com" },
+        { "name": "CNN", "url": "https://www.cnn.com" },
+        { "name": "Reuters", "url": "https://www.reuters.com" },
+        { "name": "The Guardian", "url": "https://www.theguardian.com" },
+        { "name": "AP News", "url": "https://apnews.com" },
+        { "name": "NYTimes", "url": "https://www.nytimes.com" },
+        { "name": "Bloomberg", "url": "https://www.bloomberg.com" }
+      ]
+    },
+    {
+      "id": "shopping",
+      "name": "Shopping",
+      "items": [
+        { "name": "Amazon", "url": "https://www.amazon.com" },
+        { "name": "eBay", "url": "https://www.ebay.com" },
+        { "name": "Etsy", "url": "https://www.etsy.com" },
+        { "name": "AliExpress", "url": "https://www.aliexpress.com" },
+        { "name": "Temu", "url": "https://www.temu.com" },
+        { "name": "Walmart", "url": "https://www.walmart.com" },
+        { "name": "Best Buy", "url": "https://www.bestbuy.com" },
+        { "name": "Target", "url": "https://www.target.com" }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "Finance",
+      "items": [
+        { "name": "Yahoo Finance", "url": "https://finance.yahoo.com" },
+        { "name": "Bloomberg", "url": "https://www.bloomberg.com" },
+        { "name": "CNBC", "url": "https://www.cnbc.com" },
+        { "name": "Investing.com", "url": "https://www.investing.com" },
+        { "name": "TradingView", "url": "https://www.tradingview.com" },
+        { "name": "CoinMarketCap", "url": "https://coinmarketcap.com" },
+        { "name": "CoinGecko", "url": "https://www.coingecko.com" },
+        { "name": "Google Finance", "url": "https://www.google.com/finance" }
+      ]
+    },
+    {
+      "id": "learn",
+      "name": "Learn",
+      "items": [
+        { "name": "Wikipedia", "url": "https://wikipedia.org" },
+        { "name": "Coursera", "url": "https://coursera.org" },
+        { "name": "Khan", "url": "https://khanacademy.org" },
+        { "name": "MDN", "url": "https://developer.mozilla.org" },
+        { "name": "W3Schools", "url": "https://w3schools.com" },
+        { "name": "edX", "url": "https://edx.org" },
+        { "name": "MIT OpenCourse", "url": "https://ocw.mit.edu" },
+        { "name": "Stack Overflow", "url": "https://stackoverflow.com" },
+        { "name": "freeCodeCamp", "url": "https://freecodecamp.org" },
+        { "name": "Google Scholar", "url": "https://scholar.google.com" }
+      ]
+    }
+  ]
+}

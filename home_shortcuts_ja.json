@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 2,
+  "locale": "ja",
+  "speedDial": [
+    { "name": "Yahoo! JAPAN", "url": "https://www.yahoo.co.jp" },
+    { "name": "YouTube", "url": "https://www.youtube.com" },
+    { "name": "Amazon", "url": "https://www.amazon.co.jp" },
+    { "name": "Rakuten", "url": "https://www.rakuten.co.jp" }
+  ],
+  "recommended": {
+    "name": "Niconico",
+    "url": "https://www.nicovideo.jp"
+  },
+  "categories": [
+    {
+      "id": "ai",
+      "name": "AI",
+      "items": [
+        { "name": "ChatGPT", "url": "https://chatgpt.com" },
+        { "name": "Claude", "url": "https://claude.ai" },
+        { "name": "Gemini", "url": "https://gemini.google.com" },
+        { "name": "Copilot", "url": "https://copilot.microsoft.com" },
+        { "name": "Perplexity", "url": "https://www.perplexity.ai" },
+        { "name": "DeepSeek", "url": "https://chat.deepseek.com" },
+        { "name": "Hugging Face", "url": "https://huggingface.co" },
+        { "name": "Grok", "url": "https://grok.com" },
+        { "name": "NotebookLM", "url": "https://notebooklm.google.com" }
+      ]
+    },
+    {
+      "id": "news",
+      "name": "ニュース",
+      "items": [
+        { "name": "NHK", "url": "https://www.nhk.or.jp" },
+        { "name": "Yahoo! JAPAN ニュース", "url": "https://news.yahoo.co.jp" },
+        { "name": "朝日新聞", "url": "https://www.asahi.com" },
+        { "name": "毎日新聞", "url": "https://mainichi.jp" },
+        { "name": "日本経済新聞", "url": "https://www.nikkei.com" },
+        { "name": "ITmedia", "url": "https://www.itmedia.co.jp" },
+        { "name": "産経新聞", "url": "https://www.sankei.com" },
+        { "name": "読売新聞", "url": "https://www.yomiuri.co.jp" },
+        { "name": "東洋経済オンライン", "url": "https://toyokeizai.net" },
+        { "name": "日テレNEWS", "url": "https://news.ntv.co.jp" }
+      ]
+    },
+    {
+      "id": "shopping",
+      "name": "ショッピング",
+      "items": [
+        { "name": "Amazon", "url": "https://www.amazon.co.jp" },
+        { "name": "楽天市場", "url": "https://www.rakuten.co.jp" },
+        { "name": "Yahoo!ショッピング", "url": "https://shopping.yahoo.co.jp" },
+        { "name": "メルカリ", "url": "https://jp.mercari.com" },
+        { "name": "ZOZOTOWN", "url": "https://zozo.jp" },
+        { "name": "ヨドバシ.com", "url": "https://www.yodobashi.com" },
+        { "name": "ビックカメラ", "url": "https://www.biccamera.com" },
+        { "name": "価格.com", "url": "https://kakaku.com" },
+        { "name": "ニトリ", "url": "https://www.nitori-net.jp" },
+        { "name": "ドン・キホーテ", "url": "https://www.donki.com" }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "ファイナンス",
+      "items": [
+        { "name": "Yahoo!ファイナンス", "url": "https://finance.yahoo.co.jp" },
+        { "name": "日本経済新聞", "url": "https://www.nikkei.com" },
+        { "name": "みんかぶ", "url": "https://minkabu.jp" },
+        { "name": "SBI証券", "url": "https://www.sbisec.co.jp" },
+        { "name": "楽天証券", "url": "https://www.rakuten-sec.co.jp" },
+        { "name": "マネックス証券", "url": "https://www.monex.co.jp" },
+        { "name": "松井証券", "url": "https://www.matsui.co.jp" },
+        { "name": "日本取引所グループ", "url": "https://www.jpx.co.jp" },
+        { "name": "Bloomberg Japan", "url": "https://www.bloomberg.co.jp" },
+        { "name": "マネーフォワード", "url": "https://moneyforward.com" }
+      ]
+    },
+    {
+      "id": "learn",
+      "name": "学び",
+      "items": [
+        { "name": "Wikipedia", "url": "https://ja.wikipedia.org" },
+        { "name": "NHK Easy", "url": "https://www3.nhk.or.jp/news/easy/" },
+        { "name": "Coursera", "url": "https://www.coursera.org" },
+        { "name": "Qiita", "url": "https://qiita.com" },
+        { "name": "Zenn", "url": "https://zenn.dev" },
+        { "name": "ドットインストール", "url": "https://dotinstall.com" },
+        { "name": "Schoo", "url": "https://schoo.jp" },
+        { "name": "MDN", "url": "https://developer.mozilla.org" },
+        { "name": "Stack Overflow", "url": "https://stackoverflow.com" },
+        { "name": "GitHub", "url": "https://github.com" }
+      ]
+    }
+  ]
+}
