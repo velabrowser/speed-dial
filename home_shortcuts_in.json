@@ -2,12 +2,15 @@
   "schemaVersion": 2,
   "locale": "in",
   "speedDial": [
-    { "name": "Google", "url": "https://www.google.com" },
-    { "name": "YouTube", "url": "https://www.youtube.com" },
-    { "name": "WhatsApp", "url": "https://web.whatsapp.com" },
-    { "name": "Tokopedia", "url": "https://www.tokopedia.com" }
+    { "name": "Detik", "url": "https://www.detik.com" },
+    { "name": "Kompas", "url": "https://www.kompas.com" },
+    { "name": "Tokopedia", "url": "https://www.tokopedia.com" },
+    { "name": "Shopee", "url": "https://shopee.co.id" }
   ],
-  "recommended": { "name": "Kompas", "url": "https://www.kompas.com" },
+  "recommended": {
+    "name": "CNN Indonesia",
+    "url": "https://www.cnnindonesia.com"
+  },
   "categories": [
     {
       "id": "ai",

@@ -2,14 +2,14 @@
   "schemaVersion": 2,
   "locale": "hi",
   "speedDial": [
-    { "name": "YouTube", "url": "https://youtube.com" },
-    { "name": "Facebook", "url": "https://facebook.com" },
-    { "name": "WhatsApp", "url": "https://whatsapp.com" },
-    { "name": "Flipkart", "url": "https://www.flipkart.com" }
+    { "name": "Flipkart", "url": "https://www.flipkart.com" },
+    { "name": "IRCTC", "url": "https://www.irctc.co.in" },
+    { "name": "Aaj Tak", "url": "https://www.aajtak.in" },
+    { "name": "Myntra", "url": "https://www.myntra.com" }
   ],
   "recommended": {
-    "name": "IRCTC",
-    "url": "https://www.irctc.co.in"
+    "name": "NDTV India",
+    "url": "https://ndtv.in"
   },
   "categories": [
     {

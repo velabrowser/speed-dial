@@ -2,12 +2,15 @@
   "schemaVersion": 2,
   "locale": "vi",
   "speedDial": [
-    { "name": "Google", "url": "https://www.google.com" },
-    { "name": "YouTube", "url": "https://www.youtube.com" },
-    { "name": "Facebook", "url": "https://www.facebook.com" },
-    { "name": "VnExpress", "url": "https://vnexpress.net" }
+    { "name": "VnExpress", "url": "https://vnexpress.net" },
+    { "name": "Tuoi Tre", "url": "https://tuoitre.vn" },
+    { "name": "Shopee", "url": "https://shopee.vn" },
+    { "name": "Tiki", "url": "https://tiki.vn" }
   ],
-  "recommended": { "name": "Tuoi Tre", "url": "https://tuoitre.vn" },
+  "recommended": {
+    "name": "CafeF",
+    "url": "https://cafef.vn"
+  },
   "categories": [
     {
       "id": "ai",

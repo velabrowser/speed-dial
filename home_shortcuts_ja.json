@@ -3,9 +3,9 @@
   "locale": "ja",
   "speedDial": [
     { "name": "Yahoo! JAPAN", "url": "https://www.yahoo.co.jp" },
-    { "name": "YouTube", "url": "https://www.youtube.com" },
     { "name": "Amazon", "url": "https://www.amazon.co.jp" },
-    { "name": "Rakuten", "url": "https://www.rakuten.co.jp" }
+    { "name": "Rakuten", "url": "https://www.rakuten.co.jp" },
+    { "name": "価格.com", "url": "https://kakaku.com" }
   ],
   "recommended": {
     "name": "Niconico",

@@ -2,9 +2,9 @@
   "schemaVersion": 2,
   "locale": "fr",
   "speedDial": [
-    { "name": "YouTube", "url": "https://youtube.com" },
     { "name": "Le Monde", "url": "https://www.lemonde.fr" },
-    { "name": "Amazon.fr", "url": "https://www.amazon.fr" },
+    { "name": "Le Figaro", "url": "https://www.lefigaro.fr" },
+    { "name": "Amazon", "url": "https://www.amazon.fr" },
     { "name": "Leboncoin", "url": "https://www.leboncoin.fr" }
   ],
   "recommended": {

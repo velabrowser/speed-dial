@@ -2,14 +2,14 @@
   "schemaVersion": 2,
   "locale": "ar",
   "speedDial": [
-    { "name": "YouTube", "url": "https://youtube.com" },
-    { "name": "Facebook", "url": "https://facebook.com" },
-    { "name": "WhatsApp", "url": "https://whatsapp.com" },
-    { "name": "الجزيرة", "url": "https://www.aljazeera.net" }
+    { "name": "الجزيرة", "url": "https://www.aljazeera.net" },
+    { "name": "العربية", "url": "https://www.alarabiya.net" },
+    { "name": "نون", "url": "https://www.noon.com" },
+    { "name": "جرير", "url": "https://www.jarir.com" }
   ],
   "recommended": {
-    "name": "شاهد",
-    "url": "https://shahid.mbc.net"
+    "name": "اليوم السابع",
+    "url": "https://www.youm7.com"
   },
   "categories": [
     {

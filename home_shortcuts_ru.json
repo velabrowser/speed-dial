@@ -5,7 +5,7 @@
     { "name": "Яндекс", "url": "https://yandex.ru" },
     { "name": "ВКонтакте", "url": "https://vk.com" },
     { "name": "Ozon", "url": "https://www.ozon.ru" },
-    { "name": "YouTube", "url": "https://youtube.com" }
+    { "name": "Wildberries", "url": "https://www.wildberries.ru" }
   ],
   "recommended": {
     "name": "Кинопоиск",

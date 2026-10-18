@@ -2,10 +2,10 @@
   "schemaVersion": 2,
   "locale": "de",
   "speedDial": [
-    { "name": "YouTube", "url": "https://youtube.com" },
-    { "name": "Amazon.de", "url": "https://www.amazon.de" },
     { "name": "Spiegel", "url": "https://www.spiegel.de" },
-    { "name": "Kleinanzeigen", "url": "https://www.kleinanzeigen.de" }
+    { "name": "Amazon", "url": "https://www.amazon.de" },
+    { "name": "Kleinanzeigen", "url": "https://www.kleinanzeigen.de" },
+    { "name": "Idealo", "url": "https://www.idealo.de" }
   ],
   "recommended": {
     "name": "Tagesschau",

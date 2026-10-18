@@ -2,14 +2,14 @@
   "schemaVersion": 2,
   "locale": "pt",
   "speedDial": [
-    { "name": "YouTube", "url": "https://youtube.com" },
-    { "name": "WhatsApp", "url": "https://web.whatsapp.com" },
-    { "name": "Instagram", "url": "https://www.instagram.com" },
-    { "name": "Google", "url": "https://www.google.com" }
+    { "name": "G1", "url": "https://g1.globo.com" },
+    { "name": "UOL", "url": "https://www.uol.com.br" },
+    { "name": "Mercado Livre", "url": "https://www.mercadolivre.com.br" },
+    { "name": "OLX", "url": "https://www.olx.com.br" }
   ],
   "recommended": {
-    "name": "UOL",
-    "url": "https://www.uol.com.br"
+    "name": "Folha de S.Paulo",
+    "url": "https://www.folha.uol.com.br"
   },
   "categories": [
     {
